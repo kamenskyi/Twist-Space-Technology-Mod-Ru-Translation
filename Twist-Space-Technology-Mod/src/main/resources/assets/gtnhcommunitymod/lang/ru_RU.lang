@@ -2088,7 +2088,8 @@ tc.research_text.SKYPIERCER_TOWER.9=§lTier 2 Compound Aspects (2/2)§r<BR>§lTe
 tc.research_text.SKYPIERCER_TOWER.10=§lTier 3 Compound Aspects (1/2)§r<BR>§lAlienis:§r 14 seconds<BR>§lArbor:§r 12 seconds<BR>§lAuram:§r 14 seconds<BR>§lCorpus:§r 20 seconds<BR>§lExanimis:§r 14 seconds<BR>§lGula:§r 16 seconds<BR>§lInfernus:§r 14 seconds<BR>§lMagneto:§r 18 seconds<BR>§lSpiritus:§r 14 seconds<BR>§lSuperbia:§r 14 seconds
 tc.research_text.SKYPIERCER_TOWER.11=§lTier 3 Compound Aspects (2/2)§r<BR>§lVitium:§r 14 seconds
 tc.research_text.SKYPIERCER_TOWER.12=§lTier 4 Compound Aspects§r<BR>§lCognito:§r 22 seconds<BR>§lDesidia:§r 28 seconds<BR>§lLuxuria:§r 36 seconds<BR>§lSensus:§r 22 seconds
-tc.research_text.SKYPIERCER_TOWER.13=§lTier 5 Compound Aspects§r<BR>§lHumanus:§r 40 seconds<BR>§lInvidia:§r 40 seconds<BR>§lStrontio:§r 32 secondstooltips.ProofOfGods.line3=The first people to make a TwistToken
+tc.research_text.SKYPIERCER_TOWER.13=§lTier 5 Compound Aspects§r<BR>§lHumanus:§r 40 seconds<BR>§lInvidia:§r 40 seconds<BR>§lStrontio:§r 32 seconds
+tooltips.ProofOfGods.line3=The first people to make a TwistToken
 NameMeteorMiner=Laser Meteor Miner
 NameSteamBasicGenerator=Базовый паровой генератор
 NameUniversalGenerator=Универсальный генератор
