@@ -714,6 +714,10 @@ Tooltips_AdvancedMegaOilCracker_MachineType=Cracker
 Tooltips_AdvancedMegaOilCracker_Controller=Controller block for the Advanced Mega Oil Cracker
 Tooltips_AdvancedMegaOilCracker_01=§oFreedom as a basis for self-government.
 Tooltips_AdvancedMegaOilCracker_02=As the Mega Oil Cracker do.
+Tooltips_AdvancedMegaOilCracker_03=Chamber placement no longer has restrictions.
+Tooltips_AdvancedMegaOilCracker_04=Operates §b100%§7 faster than the Mega Oil Cracker.
+Tooltips_AdvancedMegaOilCracker_05=Power Loss Reduction = §b100%§7 / §fCoil Tier§7.
+Tooltips_AdvancedMegaOilCracker_06=Hypogen coil (or better) enable §dPerfect Overclocking§7.
 tst.recipe.AssemblyLineWithoutResearchRecipe=Mega Assembly Line
 NameIndistinctTentacle=§l§8Indistinct Tentacle
 Waila.TST_IndistinctTentacle.1=Wireless Mode
@@ -2276,6 +2280,12 @@ Tooltip_IntegratedAssemblyMatrix_1_06=Nanite Containment Bus can be installed an
 Tooltip_IntegratedAssemblyMatrix_1_07=Up to §f256 Silver Nanites§7 will increase the running speed to 100% of normal speed.
 Tooltip_IntegratedAssemblyMatrix_1_08=Or up to §e256 Gold Nanites§7 will increase the running speed to 200% of normal speed,
 Tooltip_IntegratedAssemblyMatrix_1_09=And §edouble§7 the parallelism.
+NameMegaSolarPanelFactory=Mega Solar Panel Factory
+Tooltip_MegaSolarPanelFactory=Solar Factory
+Tooltip_MegaSolarPanelFactory_MachineType=Solar Factory
+Tooltip_MegaSolarPanelFactory_1_00=§lbigger is better!
+Tooltip_MegaSolarPanelFactory_1_01=§dPerfect overclocking§7.
+Tooltip_MegaSolarPanelFactory_1_02=Recipe Time Multiplier = 100% / Component Assembly Line Casing Tier.
 tile.essentia_discretizer.name=Essentia Discretizer
 tile.essentia.discretizer.tooltip.0=Discretizes essentia into fluid forms.
 tile.essentia.discretizer.tooltip.1=Ensure essentia cell is sufficient,otherwise,inserted CrystalEssence will be thorough item and will not be recognized by the infusion provider supplier as essentia.
